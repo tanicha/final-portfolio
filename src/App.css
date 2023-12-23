@@ -261,6 +261,10 @@ body {
     transition: .5s ease;
     background-color: #5e3bee;
   }
+  .logo {
+    height: 50%;
+    width: 50%;
+  }
 
   /* Hero Section Style Ends */
   
