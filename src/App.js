@@ -3,7 +3,6 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './Components/Home/NavBar';
 import Home from './Components/Homescreen';
-import HeroSection from './Components/Home/HeroSection';
 
 function App() {
   return (
@@ -12,8 +11,8 @@ function App() {
         <div>
           <Navbar />
           <Routes>
-            <Route path="/" element={<Home />}></Route>
-            <Route path="*" element={<div>404 Not Found</div>}></Route>
+            <Route path="/" element={<Home />} />
+            <Route path="*" element={<div> 404 Not Found </div>} />
           </Routes>
         </div>
       </Router>

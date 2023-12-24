@@ -24,5 +24,29 @@
             "title": "Webflow Development",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
         }
+    ],
+
+    "portfolio": [
+        {
+            "id": "1",
+            "source": "./img/front-development.png",
+            "title": "Project Name",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "link": "View in GitHub"
+        },
+        {
+            "id": "2",
+            "source": "./img/back-end.png",
+            "title": "Project Name",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "link": "View in GitHub"
+        },
+        {
+            "id": "3",
+            "source": "./img/design.png",
+            "title": "Project Name",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "link": "View in GitHub"
+        }
     ]
 }
