@@ -68,7 +68,7 @@ function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to="AboutMe"
+                            to="aboutMe"
                             className="navbar--content"
                         >
                         About Me
@@ -82,7 +82,7 @@ function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to="mySkills"
+                            to="skills"
                             className="navbar--content"
                         >
                         Skills
@@ -96,7 +96,7 @@ function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to="MyPortfolio"
+                            to="myPortfolio"
                             className="navbar--content"
                         >
                         Portfolio
@@ -110,10 +110,10 @@ function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to="Testimonials"
+                            to="feedback"
                             className="navbar--content"
                         >
-                        Testimonials
+                        Feedback
                         </Link>
                     </li>
                 </ul>
