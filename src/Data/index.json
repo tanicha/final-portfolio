@@ -48,5 +48,35 @@
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
             "link": "View in GitHub"
         }
+    ],
+    
+    "testimonials": [
+        {
+            "id": "1",
+            "count": "5",
+            "source": "./img/front-development.png",
+            "title": "Project Name",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "author_name": "Author Name",
+            "link": "Add Link"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "source": "./img/front-development.png",
+            "title": "Project Name",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "author_name": "Author Name",
+            "link": "Add Link"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "source": "./img/front-development.png",
+            "title": "Project Name",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "author_name": "Author Name",
+            "link": "Add Link"
+        }
     ]
 }
