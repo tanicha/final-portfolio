@@ -18,7 +18,7 @@ export default function HeroSection() {
                 <button className="btn btn-primary"> Get in touch! </button>
             </div>
             <div className="hero--section--img">
-                <img className="hero--img"src="./img/tani-pic.jpg" alt="Hero Section"/>
+                <img className="hero--img"src="./img/fullstack_dev.png" alt="Hero Section"/>
                 <div class="overlay">
                     <div class="text">Hello World 👾</div>
                 </div>

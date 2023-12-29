@@ -2,7 +2,7 @@ export default function AboutMe() {
     return (
         <section id="aboutMe" className="about--section">
             <div className="about--section--img">
-                <img src="./img/about-me.png" alt="About Me"/>
+                <img src="./img/tani-pic.jpg" alt="About Me"/>
             </div>
             <div className="hero--section--content--box about--section--box">
                 <div className="hero--section--content">
@@ -13,10 +13,10 @@ export default function AboutMe() {
                         About Me
                     </h1>
                     <p className="hero--section-description">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium repellendus minima possimus laudantium quidem aut repellat consectetur ad unde voluptatum!
+                        My name is Tani Cha. I was born and raised in Washington, near Tacoma. I am currently working at Expedia Group, as a Software Development Engineer Apprentice in Seattle, WA.
                     </p>
                     <p className="hero--section-description">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium repellendus minima possimus laudantium quidem aut repellat consectetur ad unde voluptatum!
+                        I have been coding since the start of this year (Jan 2023) - Although, I first gained some coding experience during my time in the Year Up Program (2021-2022), which was the start of my coding journey! Since the start, I have been able to make various projects using different coding languages, frameworks, libraries, etc. 
                     </p>
                 </div>
             </div>
