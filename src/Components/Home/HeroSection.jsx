@@ -1,3 +1,5 @@
+import { Link } from "react-scroll";
+
 export default function HeroSection() {
     return (
         <section id="heroSection" className="hero--section">
@@ -13,10 +15,22 @@ export default function HeroSection() {
                     </h1>
                     <p className="hero--section-description"> Welcome to my Personal Portfolio!</p>
                     <br />
-                    I am currently working at Expedia Group as a Software Development Engineer Apprentice! Throughout this website, I will be showcasing my work experience, technical projects I've worked on, and skills/tools that I have learned to use within the last year.
+                    I will be showcasing my technical skills that I've grown from the past year!
+                    <br />
                 </div>
-                <button className="btn btn-primary"> Get in touch! </button>
-            </div>
+                <br />
+                <Link                 
+                activeClass="navbar--active-content"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                to="aboutMe"
+                className="btn btn-primary"
+                >
+                    Let's get started! 
+                </Link>
+            </div> 
             <div className="hero--section--img">
                 <img className="hero--img"src="./img/fullstack_dev.png" alt="Hero Section"/>
                 <div class="overlay">
