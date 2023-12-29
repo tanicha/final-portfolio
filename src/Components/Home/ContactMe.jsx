@@ -2,8 +2,8 @@ export default function ContactMe() {
     return (
         <section id="contact" className="contact--section">
             <div>
-                <p className="sub--title"> Get In Touch</p>
-                <h2>Contact Me</h2>
+                <p className="sub--title">Get In Touch</p>
+                <h2 className="contact--heading">Contact Me</h2>
             </div>
             <form className="contact--form--container">
                 <div className="container">

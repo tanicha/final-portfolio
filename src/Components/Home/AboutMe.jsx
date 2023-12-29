@@ -6,10 +6,10 @@ export default function AboutMe() {
             </div>
             <div className="hero--section--content--box about--section--box">
                 <div className="hero--section--content">
-                    <p className="section--title">
+                    <p className="sub--title">
                         About
                     </p>
-                    <h1 className="skills-section--heading">
+                    <h1 className="about-me--heading">
                         About Me
                     </h1>
                     <p className="hero--section-description">

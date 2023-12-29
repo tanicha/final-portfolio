@@ -85,7 +85,7 @@ body {
   
   /* Heading 1 */
   h1 {
-    font-size: 56px;
+    font-size: 45px;
     font-weight: 700;
     line-height: 67px;
   }
@@ -279,7 +279,7 @@ body {
   }
   .skills--section--heading {
     color: var(--heading-color);
-    font-size: 64px;
+    font-size: 45px;
     font-weight: 700;
     line-height: 77px;
   }
@@ -344,6 +344,12 @@ body {
   /* Skills Style Ends */
   
   /* About Us */
+  .about-us--heading {
+    color: var(--heading-color);
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 77px;
+  }
   .about--section {
     display: grid;
     padding: 133.3px 85.3px;
@@ -358,6 +364,12 @@ body {
   /* About Us Ends */
   
   /* My Portfolio Starts */
+  .portfolio--heading {
+    color: var(--heading-color);
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 77px;
+  }
   .portfolio--section {
     display: flex;
     padding: 112px 85px;
@@ -436,6 +448,12 @@ body {
     gap: 80px;
     background-color: var(--bg-shade);
   }
+  .testimonial--heading {
+    color: var(--heading-color);
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 77px;
+  }
   .sections--heading {
     color: var(--heading-color);
   }
@@ -470,6 +488,12 @@ body {
     line-height: 150%;
   }
   /* Testimonial Ends */
+  .contact--heading {
+    color: var(--heading-color);
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 77px;
+  }
   .contact--section {
     display: flex;
     padding: 150px 85px;
