@@ -23,7 +23,7 @@ export default function MyPortfolio() {
                 {data?.portfolio?.map((item, index) => (
                     <div key={index} className="portfolio--section--card">
                         <div className="portfolio--section--img">
-                            <img src={item.source} alt="Placeholder"/>
+                            <img src={item.source} alt="Placeholder" className="project--img"/>
                         </div>
                         <div className="portfolio--section--card--content">
                             <div>
