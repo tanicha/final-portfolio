@@ -27,12 +27,18 @@ export default function Feedback() {
                                </svg>
                              ))}
                             </div>
-                            <p className="text-md">{item.description}</p>
+                            <h4>{item.title}</h4>
+                            <p>{item.degree}</p>
+                            <ul>
+                                <li className="text-md">{item.description}</li>
+                                <li className="text-md">{item.description2}</li>
+                                <li className="text-md">{item.description3}</li>
+                                <li className="text-md">{item.description4}</li>
+                            </ul>
                             <div className="testimonial--section--card--author--detail">
                                 {/* <img src={item.source} alt="Avatar"/> */}
                                 <div> 
-                                    <p className="text-md testimonial--author--name">{item.author_name}</p>
-                                    <p className="text-md testimonial--author--name">{item.link}</p>
+                                    <p className="text-md testimonial--author--name">{item.role}</p>
                                 </div>
                             </div>
                         </div>
