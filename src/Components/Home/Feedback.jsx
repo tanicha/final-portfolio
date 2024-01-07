@@ -1,5 +1,4 @@
 import data from "../../data/index.json";
-import Carousel from 'react-bootstrap/Carousel';
 
 export default function Feedback() {
     return (

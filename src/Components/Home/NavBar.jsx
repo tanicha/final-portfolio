@@ -113,7 +113,7 @@ function Navbar() {
                             to="feedback"
                             className="navbar--content"
                         >
-                        Feedback
+                        Experience
                         </Link>
                     </li>
                 </ul>
