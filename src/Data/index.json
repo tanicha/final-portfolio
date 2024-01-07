@@ -4,38 +4,38 @@
             "id": "1",
             "source": "./img/front-development.png",
             "title": "Front-End",
-            "description": "HTML",
-            "description2": "CSS",
-            "description3": "JavaScript",
-            "description4": "React.js/React.ts"
+            "description": "JavaScript",
+            "description2": "TypeScript",
+            "description3": "ReactJS/ReactTS",
+            "description4": "HTML",
+            "description5": "CSS",
+            "description6": "Bootstrap CSS"        
         },
         {
             "id": "2",
             "source": "./img/back-end.png",
             "title": "Back-End",
-            "description": "Express",
-            "description2": "Node.js",
-            "description3": "Spring",
-            "description4": "Java",
-            "description5": "Kotlin"
+            "description": "Java",
+            "description2": "Kotlin",
+            "description3": "Node.js",
+            "description4": "Express",
+            "description5": "Spring"
         },
         {
             "id": "3",
             "source": "./img/design.png",
             "title": "Database",
-            "description": "SQL",
-            "description2": "MySQL",
-            "description3": "SQLite",
-            "description4": "React.js/React.ts"
+            "description": "MySQL",
+            "description2": "SQLite"        
         },
         {
             "id": "4",
             "source": "./img/continuous.png",
-            "title": "Webflow Development",
-            "description": "HTML",
-            "description2": "CSS",
-            "description3": "JavaScript",
-            "description4": "React.js/React.ts"
+            "title": "Other Related-Tools",
+            "description": "GraphQL",
+            "description2": "AWS",
+            "description3": "Power BI",
+            "description4": "ServiceNow"
         }
     ],
 

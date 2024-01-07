@@ -32,7 +32,7 @@ export default function HeroSection() {
                 </Link>
             </div> 
             <div className="hero--section--img">
-                <img className="hero--img"src="./img/fullstack_dev.png" alt="Hero Section"/>
+                <img className="hero--img"src="./img/developer.png" alt="Hero Section"/>
                 <div class="overlay">
                     <div class="text">Hello World 👾</div>
                 </div>
