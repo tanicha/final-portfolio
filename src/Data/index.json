@@ -42,21 +42,21 @@
     "portfolio": [
         {
             "id": "1",
-            "source": "./img/front-development.png",
+            "source": "./img.png",
             "title": "Inventory App",
             "description": "Our prompt: You are a team of developers for an e-commerce company. The Engineering team is rebuilding their inventory tracking app from the ground up. Your team has been tasked with creating a Full-Sack (front and back end) RESTful CRUD application to track the items.",
             "link": "https://github.com/multiverse-circuit-breakers/inventory-app"
         },
         {
             "id": "2",
-            "source": "./img/back-end.png",
+            "source": "./img/alister.png",
             "title": "Movie Search Engine App",
             "description": "A front-end based movie search engine project that allows an user to look up any movie with the help of an external movie database API. Worked with a team of 4, including myself. This was one of the first React projects that I have created in Multiverse Bootcamp.",
             "link": "https://github.com/AlistersX/Alisters"
         },
         {
             "id": "3",
-            "source": "./img/design.png",
+            "source": "./img/todolist.png",
             "title": "To-Do List",
             "description": "A back-end based project that integrates Auth0 for secure authentication, authorization, and token-based control.",
             "link": "https://github.com/MultiverseBackendProject/todolist"
