@@ -5,8 +5,8 @@ export default function Feedback() {
         <section className="testimonial--section" id="feedback"> 
             <div className="portfolio--container--box">
                 <div className="portfolio--container">
-                    <p className="sub--title">Feedback</p>
-                    <h2 className="testimonial--heading">Feedback</h2>
+                    <p className="sub--title">Career</p>
+                    <h2 className="testimonial--heading">Experience</h2>
                 </div>
                 <div className="portfolio--section--container">
                     {data?.feedback?.map((item, index) => (

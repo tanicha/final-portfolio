@@ -4,25 +4,38 @@
             "id": "1",
             "source": "./img/front-development.png",
             "title": "Front-End",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "description": "HTML",
+            "description2": "CSS",
+            "description3": "JavaScript",
+            "description4": "React.js/React.ts"
         },
         {
             "id": "2",
             "source": "./img/back-end.png",
             "title": "Back-End",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "description": "Express",
+            "description2": "Node.js",
+            "description3": "Spring",
+            "description4": "Java",
+            "description5": "Kotlin"
         },
         {
             "id": "3",
             "source": "./img/design.png",
-            "title": "UI & UX Design",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "title": "Database",
+            "description": "SQL",
+            "description2": "MySQL",
+            "description3": "SQLite",
+            "description4": "React.js/React.ts"
         },
         {
             "id": "4",
             "source": "./img/continuous.png",
             "title": "Webflow Development",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "description": "HTML",
+            "description2": "CSS",
+            "description3": "JavaScript",
+            "description4": "React.js/React.ts"
         }
     ],
 
