@@ -67,7 +67,7 @@
         {
             "id": "1",
             "count": "5",
-            "source": "./img/front-development.png",
+            "source": "./img/PierceCollege-Logo-square.png",
             "title": "Pierce College (2019-2021)",
             "degree": "Associates Of Arts",
             "description": "AA Degree",
@@ -80,7 +80,7 @@
         {
             "id": "2",
             "count": "5",
-            "source": "./img/front-development.png",
+            "source": "./img/seattle-central-college.png",
             "title": "Seattle Central College (2021-2022)",
             "degree": "Certificate",
             "description": "Software Development Courses",
@@ -93,7 +93,7 @@
         {
             "id": "3",
             "count": "5",
-            "source": "./img/front-development.png",
+            "source": "./img/Providence-St.-Joseph.png",
             "title": "Providence Health & Services (2021-2022)",
             "degree": "Certificate",
             "description": "Reporting Intern",
@@ -106,7 +106,7 @@
         {
             "id": "4",
             "count": "5",
-            "source": "./img/front-development.png",
+            "source": "./img/expedia.png",
             "degree": "Full-time Associate",
             "title": "Expedia Group (2023-present)",
             "description": "Kotlin",
