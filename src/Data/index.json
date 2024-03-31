@@ -44,7 +44,7 @@
             "id": "1",
             "source": "./img/appinventory.png",
             "title": "Inventory App",
-            "description": "Our prompt: You are a team of developers for an e-commerce company. The Engineering team is rebuilding their inventory tracking app from the ground up. Your team has been tasked with creating a Full-Sack (front and back end) RESTful CRUD application to track the items.",
+            "description": "A inventory tracking app utilizing a Full-Stack (front and back end) RESTful CRUD application to track the items. Tech stack consists of React, JavaScript, Vanilla CSS, Bootstrap CSS, etc.",
             "link": "https://github.com/multiverse-circuit-breakers/inventory-app"
         },
         {
