@@ -44,14 +44,14 @@
             "id": "1",
             "source": "./img/appinventory.png",
             "title": "Inventory App",
-            "description": "A inventory tracking app utilizing a Full-Stack (front and back end) RESTful CRUD application to track the items. Tech stack consists of React, JavaScript, Vanilla CSS, Bootstrap CSS, etc.",
+            "description": "A inventory tracking app utilizing a Full-Stack (front and back end) RESTful CRUD application to track the items. Tech stack consists of React, JavaScript, Vanilla CSS, Bootstrap CSS, etc. Used Postman to test our backend API calls.",
             "link": "https://github.com/multiverse-circuit-breakers/inventory-app"
         },
         {
             "id": "2",
             "source": "./img/alister.png",
             "title": "Movie Search Engine App",
-            "description": "A front-end based movie search engine project that allows an user to look up any movie with the help of an external movie database API. Worked with a team of 4, including myself. This was one of the first React projects that I have created in Multiverse Bootcamp.",
+            "description": "A front-end based movie search engine project that allows an user to look up any movie with the help of an external movie database API. Worked with a team of 4, including myself. One of the first React projects that I have created in Multiverse Bootcamp.",
             "link": "https://github.com/AlistersX/Alisters"
         },
         {

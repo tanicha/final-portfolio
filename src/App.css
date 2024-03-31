@@ -422,10 +422,10 @@ body {
   }
   .portfolio--section--card--content {
     display: flex;
-    padding: 32px;
+    padding: 30px;
     flex-direction: column;
     align-items: flex-start;
-    gap: 32px;
+    gap: 30px;
     align-self: stretch;
   }
   .portfolio--section--title {
