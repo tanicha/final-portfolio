@@ -271,7 +271,7 @@ body {
   /* Skills Section Style */
   .skills--section {
     display: flex;
-    padding: 110.33px 85.33px;
+    padding: 95px 85.33px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
@@ -289,6 +289,7 @@ body {
     align-items: flex-start;
     gap: 42.6px;
     grid-template-columns: repeat(4, 1fr);
+    margin-top: -20px;
   }
   .skills--section--card {
     display: flex;
@@ -373,7 +374,7 @@ body {
   }
   .portfolio--section {
     display: flex;
-    padding: 90px 85px;
+    padding: 50px 85px;
     flex-direction: column;
     align-items: flex-start;
     gap: 40px;
@@ -383,12 +384,15 @@ body {
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    height: 90%;
   }
   .portfolio--container {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 21.3px;
+    width: 1800px;
+    margin-bottom: -20px;
   }
   .portfolio--section--container {
     display: flex;
@@ -422,7 +426,7 @@ body {
   }
   .portfolio--section--card--content {
     display: flex;
-    padding: 30px;
+    padding: 10px;
     flex-direction: column;
     align-items: flex-start;
     gap: 30px;
@@ -430,6 +434,7 @@ body {
   }
   .portfolio--section--title {
     color: var(--heading-color);
+    text-align: center;
   }
   .portfolio--link {
     text-decoration: none;
@@ -458,6 +463,7 @@ body {
     font-size: 45px;
     font-weight: 700;
     line-height: 77px;
+    margin-bottom: 40px ;
   }
   .sections--heading {
     color: var(--heading-color);
@@ -466,7 +472,7 @@ body {
     display: flex;
     padding: 42.6px;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 42.6px;
     flex: 1 0 0;
     border-radius: 8px;
@@ -481,6 +487,11 @@ body {
     display: flex;
     align-items: center;
     gap: 21.3px;
+  }
+  .feedback--img {
+    width: 50px;
+    height: 50px;
+    align-self: center;
   }
   .testimonial--author--name {
     font-weight: 600;
