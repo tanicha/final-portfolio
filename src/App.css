@@ -392,7 +392,7 @@ body {
     align-items: flex-start;
     gap: 21.3px;
     width: 1800px;
-    margin-bottom: -20px;
+    margin-bottom: -10px;
   }
   .portfolio--section--container {
     display: flex;
@@ -400,6 +400,7 @@ body {
     justify-content: center;
     gap: 42.6px;
     width: 100%;
+    margin-top: -15px;
   }
   .portfolio--section--img {
     border-radius: 8px;
@@ -426,7 +427,7 @@ body {
   }
   .portfolio--section--card--content {
     display: flex;
-    padding: 10px;
+    padding: 15px;
     flex-direction: column;
     align-items: flex-start;
     gap: 30px;
@@ -435,6 +436,8 @@ body {
   .portfolio--section--title {
     color: var(--heading-color);
     text-align: center;
+    padding: 3px;
+    margin-top: -25px;
   }
   .portfolio--link {
     text-decoration: none;
