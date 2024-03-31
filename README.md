@@ -4,6 +4,8 @@ This React project will showcase my skills that I have grown over the course of 
 
 In my portfolio, I will share a background of my technical skills, go into depth about the tools that I have learned to use, and provide info/links to check out my past projects!
 
+Check out the live-site: https://tanis-final-portfolio.onrender.com
+
 ---
 
 ### Getting Started with Create React App
